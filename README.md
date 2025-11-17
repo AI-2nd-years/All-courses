@@ -2,6 +2,8 @@
 
 Welcome to the Machine Learning course repository for AI 2nd year students! This repository contains comprehensive course materials, lab exercises, assignments, and resources for learning fundamental and advanced machine learning concepts.
 
+> **Note**: This is the **main course repository**. Students have individual repositories in the [AI-2nd-years](https://github.com/AI-2nd-years) organization for their work. See [ORGANIZATION_HIERARCHY.md](ORGANIZATION_HIERARCHY.md) for the complete organization structure.
+
 ## 📚 Course Overview
 
 This repository covers the following machine learning topics:
@@ -84,16 +86,24 @@ jupyter notebook
 
 Navigate to the desired course or lab folder and open the `.ipynb` files.
 
-## 👥 Cohort Organization
+## 👥 For Students
 
-This repository supports multiple cohorts of students. Each cohort has its own dedicated folder under `/cohorts/` where students can:
+### Your Personal Repository
 
-- Submit assignments
-- Share project work
-- Collaborate on group projects
-- Access cohort-specific materials
+Each student has their own repository in the [AI-2nd-years](https://github.com/AI-2nd-years) organization:
+- **AICHA**: [github.com/AI-2nd-years/AICHA](https://github.com/AI-2nd-years/AICHA)
+- **Soumana**: [github.com/AI-2nd-years/Soumana](https://github.com/AI-2nd-years/Soumana)
+- **Your repo**: `https://github.com/AI-2nd-years/[your-name]`
 
-See [`cohorts/README.md`](cohorts/README.md) for more information on cohort structure and guidelines.
+See [STUDENT_REPO_TEMPLATE.md](STUDENT_REPO_TEMPLATE.md) for how to structure your repository.
+
+### Cohort Organization
+
+This repository supports multiple cohorts under `/cohorts/`. You can either:
+1. **Work in your personal repo** (recommended for portfolio building)
+2. **Work in cohort folder** (centralized submission)
+
+See [`cohorts/README.md`](cohorts/README.md) and [ORGANIZATION_HIERARCHY.md](ORGANIZATION_HIERARCHY.md) for details.
 
 ## 📖 Course Materials
 
