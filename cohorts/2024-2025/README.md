@@ -11,33 +11,9 @@ Welcome to the Machine Learning course for academic year 2024-2025!
 
 ## 👥 Students
 
-Students in this cohort have individual repositories in the AI-2nd-years organization for their work and portfolio building.
+This cohort's students should create their personal folders under `students/[your-name]/`.
 
-### Current Students
-
-| Student | Repository | Status | Progress |
-|---------|------------|--------|----------|
-| AICHA | [github.com/AI-2nd-years/AICHA](https://github.com/AI-2nd-years/AICHA) | ✅ Active | - |
-| Soumana | [github.com/AI-2nd-years/Soumana](https://github.com/AI-2nd-years/Soumana) | ✅ Active | - |
-
-*To add a new student, contact the instructor to create their repository.*
-
-### For Students: Repository Setup
-
-Each student has their own repository for assignments, labs, and projects:
-
-1. **Your repository**: `https://github.com/AI-2nd-years/[your-name]`
-2. **Course materials**: This repository (All-courses)
-3. **Workflow**: 
-   - Get assignments/labs from All-courses
-   - Complete work in your personal repository
-   - Build your portfolio as you learn
-
-See [STUDENT_REPO_TEMPLATE.md](../../STUDENT_REPO_TEMPLATE.md) for recommended structure.
-
-### Alternative: Work in Cohort Folder
-
-Students can also work directly in this repository:
+### Getting Started
 
 1. Create your personal folder:
    ```bash
